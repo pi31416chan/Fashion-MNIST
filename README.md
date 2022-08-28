@@ -1,7 +1,7 @@
 # Fashion-MNIST
 A self-learning exercise to explore MLP model using TensorFlow 2 on the popular Fashion MNIST dataset
 
-Model Used: MLP
+Model Used: MLP\
 Layers:
 1. Flatten
 2. Dense(300,relu)
